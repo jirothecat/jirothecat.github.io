@@ -15,3 +15,8 @@ live-server
 ```
 open index.html
 ```
+
+Alternatively, please click on the deployed live page to access the website if you do not wish to run this program locally.
+```
+https://jirothecat.github.io/
+```
