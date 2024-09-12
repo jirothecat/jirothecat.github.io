@@ -1,1 +1,35 @@
-Hello World
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="styles.css" />
+    <script defer src="index.js"></script>
+</head>
+<body>
+    <header>
+        <h1>The Pokémon Archive</h1>
+        <p>Welcome to a new Pokémon website! There are several starter and franchise Pokémon shown below: Hover and click on them to interact and see more info!</p>
+    </header>
+
+    <div id="pokemon-container">
+        
+    </div>
+
+    <div id="pokemon-details" style="display: none;">
+        
+    </div>
+
+    <form id="new-pokemon-form">
+        <p>Want a new Pokémon on the page? Add your own!</p>
+        <input type="text" id="pokemon-name" placeholder="Pokemon Name" required>
+        <input type="text" id="pokemon-type" placeholder="Type" required>
+        <input type="text" id="pokemon-image" placeholder="Image URL" required>
+        <input type="text" id="pokemon-region" placeholder="Region" required>
+        <input type="text" id="pokemon-height" placeholder="Height" required>
+        <input type="text" id="pokemon-weight" placeholder="Weight" required>
+        <input type="text" id="pokemon-descriptionM" placeholder="Description" required>
+        <input type="text" id="pokemon-descriptionF" placeholder="Description" required>
+        <button type="submit">Add Pokemon</button>
+    </form>
+</body>
+</html>
+

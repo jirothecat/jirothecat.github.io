@@ -1,0 +1,96 @@
+header {
+    text-align: center;
+  }
+  
+  header h1 {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: rgba(255, 255, 255, 0.8); 
+    border-radius: 10px;
+  }
+  
+
+.pokemon-container {
+    position: relative;
+  display: inline-block;
+  cursor: pointer;
+  }
+  
+  .pokemon-name {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: black;
+    padding: 5px 10px;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.7);
+    font-weight: bold;
+    display: none;
+    pointer-events: none; 
+    font-size: 48px;
+    font-family: 'Copperplate', fantasy;
+    z-index: 10;
+  }
+  
+.delete {
+    display: none;
+    
+}
+
+
+  .low-opacity {
+    opacity: 0.2;
+    transition: opacity 0.3s ease;
+  }
+  
+  #pokemon-details {
+    position: fixed;
+    top: 50%;
+    right: 20px; /* Adjust this value to control distance from right edge */
+    transform: translateY(-50%);
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    z-index: 1000;
+    width: 300px; /* Adjust as needed */
+    max-height: 80vh; /* Limit height to 80% of viewport height */
+    overflow-y: auto; /* Allow scrolling if content is too long */
+  }
+  
+  
+  #pokemon-details.enlarged {
+    width: 600px; 
+    height: 600px; 
+  }
+  
+
+  .pokemon-container img {
+    width: 350  px;  
+    height: 375px; 
+    object-fit: cover; /* This ensures the image covers the area without distortion */
+  }
+  
+
+  body {
+    background-image: url(https://images5.alphacoders.com/531/531970.jpg);
+    
+  }
+
+  .male-symbol {
+    color: blue;
+    font-weight: bold;
+    margin-right: 5px;
+  }
+  
+  .female-symbol {
+    color: rgb(202, 107, 142);
+    font-weight: bold;
+    margin-right: 5px;
+  }
+
+  
+  #new-pokemon-form {
+    text-align: center;
+    
+  }
