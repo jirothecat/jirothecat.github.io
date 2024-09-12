@@ -1,0 +1,114 @@
+{
+    "pokemon": [
+      {
+        "name": "Bulbasaur",
+        "type": "Grass",
+        "region": "Kanto",
+        "height": "2'04\"",
+        "weight": "15.2 lbs",
+        "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/001.png",
+        "descriptionM": "For some time after its birth, it uses the nutrients that are packed into the seed on its back in order to grow.",
+        "descriptionF": "It carries a seed on its back right from birth. As its body grows larger, the seed does too.",
+        "id": 1
+      },
+      {
+        "name": "Charmander",
+        "type": "Fire",
+        "region": "Kanto",
+        "height": "2'00\"",
+        "weight": "18.7 lbs",
+        "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/004.png",
+        "descriptionM": "The flame on its tail shows the strength of its life-force. If Charmander is weak, the flame also burns weakly.",
+        "descriptionF": "If Charmander is healthy, the flame on the tip of its tail will burn vigorously and won’t go out even if it gets a bit wet.",
+        "id": 2
+      },
+      {
+        "name": "Squirtle",
+        "type": "Water",
+        "region": "Kanto",
+        "height": "1'08\"",
+        "weight": "19.8 lbs",
+        "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/007.png",
+        "descriptionM": "After birth, its back swells and hardens into a shell. It sprays a potent foam from its mouth.",
+        "descriptionF": "Its shell is soft immediately after it is born. In no time at all, the shell becomes so resilient that a prodding finger will bounce right off it.",
+        "id": 3
+      },
+      {
+        "name": "Chikorita",
+        "type": "Grass",
+        "region": "Johto",
+        "height": "2'11\"",
+        "weight": "14.1 lbs",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full//152.png",
+        "descriptionM": "It loves to bask in the sunlight. It uses the leaf on its head to seek out warm places.",
+        "descriptionF": "Its pleasantly aromatic leaf has the ability to check the humidity and temperature of the area around it.",
+        "id": 4
+      },
+      {
+        "name": "Cyndaquil",
+        "type": "Fire",
+        "region": "Johto",
+        "height": "1'08\"",
+        "weight": "17.4 lbs",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full//155.png",
+        "descriptionM": "It usually stays hunched over. If it is angry or surprised, it shoots flames out of its back.",
+        "descriptionF": "The fire that spouts from its back burns hottest when it is angry. The flaring flames intimidate foes.",
+        "id": 5
+      },
+      {
+        "name": "Totodile",
+        "type": "Water",
+        "region": "Johto",
+        "height": "2'00\"",
+        "weight": "20.9 lbs",
+        "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/158.png",
+        "descriptionM": "Its powerful, well-developed jaws are capable of crushing anything. Even its Trainer must be careful.",
+        "descriptionF": "This rough critter chomps at any moving object it sees. Turning your back on it is not recommended.",
+        "id": 6
+      },
+      {
+        "name": "Treeko",
+        "type": "Grass",
+        "region": "Hoenn",
+        "height": "1'08\"",
+        "weight": "11 lbs",
+        "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/252.png",
+        "descriptionM": "The small hooks on the soles of its feet latch on to walls and ceilings, so it will never fall even while hanging upside down.",
+        "descriptionF": "Treecko can quickly scale even vertical surfaces. It senses humidity with its tail to predict the next day’s weather.",
+        "id": 7
+      },
+      {
+        "name": "Torchic",
+        "type": "Fire",
+        "region": "Hoenn",
+        "height": "1'04\"",
+        "weight": "5.5 lbs",
+        "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/255.png",
+        "descriptionM": "Torchic feels toasty warm if you hug it. It has a flame sac inside its belly, and the flames burn continuously as long as Torchic has life in it.",
+        "descriptionF": "In its belly, it has a sac filled with burning fire, meaning that Torchic feels as warm as a hot-water bottle if you hug it.",
+        "id": 8
+      },
+      {
+        "name": "Mudkip",
+        "type": "Water",
+        "region": "Hoenn",
+        "height": "1'04\"",
+        "weight": "16.8 lbs",
+        "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/258.png",
+        "descriptionM": "It has the power to crush large boulders into pieces. To rest, it buries itself in mud at the bottom of a river.",
+        "descriptionF": "When it uses its large tail fin, it picks up speed rapidly in the water. It is strong in spite of its small size.",
+        "id": 9
+      },
+      {
+        "name": "Pikachu",
+        "type": "Electric",
+        "region": "Kanto",
+        "height": "1'04\"",
+        "weight": "13.2 lbs",
+        "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/025.png",
+        "descriptionM": "When it is angered, it immediately discharges the energy stored in the pouches in its cheeks.",
+        "descriptionF": "When several of these Pokémon gather, their electricity can build and cause lightning storms.",
+        "id": 10
+      }
+    ]
+  }
